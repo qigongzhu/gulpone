@@ -1,0 +1,376 @@
+.header {
+  background: url(../img/1.jpg) no-repeat;
+  background-position: center bottom;
+  background-size: cover ;
+}
+.header b {
+  background: white;
+}
+.header a {
+  font-size: 37px;
+  color: white;
+}
+.header a span {
+  color: #ffd966;
+}
+.header p {
+  color: white;
+  margin-right: 15px;
+}
+.header ul li a {
+  margin-top: 10px;
+  color: white;
+  font-size: 14px;
+  background: url(../img/33.jpg) no-repeat right center;
+  padding-left: 30px;
+  background-size: 15px auto ;
+}
+.header ul li a button {
+  background: none;
+  border: 1px solid #FFFFFF;
+  color: white;
+}
+.header ul li a:last-child {
+  background: none;
+}
+.header .header_section {
+  text-align: center;
+}
+.header .header_section h2 {
+  color: white;
+  padding-top: 100px;
+}
+.header .header_section h1 {
+  color: #fdd250;
+  margin-bottom: 30px;
+}
+.header .header_section p {
+  color: white;
+}
+.header .header_section p:nth-child(6) {
+  margin-bottom: 60px;
+}
+.header .header_section p span {
+  color: #07b8bb;
+}
+.header .header_section button {
+  margin-top: 60px;
+  padding: 10px 20px;
+  margin-right: 20px;
+  width: auto;
+  margin-bottom: 50px;
+  color: white;
+  background: #58b300;
+  border: 1px solid #58b300;
+  font-size: 17px;
+}
+.nav > li > a:hover {
+  background: none;
+}
+.header_bottom {
+  margin-top: 85px;
+  text-align: center;
+  margin-bottom: 70px;
+}
+.section {
+  margin-bottom: 20px;
+}
+.section .two {
+  border: 1px solid #e9e9e9;
+  background: #fcfcfc;
+}
+.section .two dl dt {
+  float: left;
+  margin-right: 20px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.section .two dl dd h5 {
+  font-size: 14px ;
+  font-weight: bold;
+  padding-top: 30px;
+}
+.section .two dl dd p {
+  padding-right: 40px;
+}
+.section_bootom {
+  text-align: center;
+  margin-top: 85px;
+}
+.section_bootom button {
+  background: #59b401;
+  border: 1px solid #59b401;
+  font-size: 27px;
+  padding: 5px 15px;
+  margin-bottom: 80px;
+}
+.seven {
+  text-align: center;
+  background: #f5f5f5;
+}
+.seven .seven_one h1 {
+  margin-top: 75px;
+}
+.seven .seven_two .two_one {
+  border: 1px solid #ccc;
+  margin-bottom: 35px;
+}
+.seven .seven_two .two_one p {
+  background: white;
+  padding-top: 15px ;
+  height: 70px;
+}
+.seven .seven_two .two_one p span {
+  background: white;
+  width: 75px;
+  height: 50px;
+  margin-left: -100px;
+  display: inline-block;
+  background: url(../img/2.png) no-repeat -7px -4px;
+}
+.seven .seven_three {
+  text-align: center;
+}
+.seven .seven_three button {
+  background: #59b401;
+  border: 1px solid #59b401;
+  font-size: 27px;
+  padding: 5px 15px;
+  margin-bottom: 80px;
+  margin-top: 15px;
+}
+.eight {
+  margin-top: 70px;
+}
+.eight .eight_one {
+  text-align: center;
+  font-size: 14px;
+}
+.eight .eight_two .two_one {
+  border: 1px solid #ccc;
+  height: 400px;
+  margin-bottom: 20px;
+  position: relative;
+}
+.eight .eight_two .two_one .ones {
+  border-bottom: 1px solid #ccc;
+}
+.eight .eight_two .two_one .ones h4 {
+  margin-left: 25px;
+  margin-top: 35px;
+}
+.eight .eight_two .two_one p {
+  margin-top: 15px;
+  margin-left: 30px;
+}
+.eight .eight_two .two_one p img {
+  padding-right: 20px;
+}
+.eight .eight_two .two_one b {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.eight_center {
+  border: 1px solid #ccc;
+  height: auto;
+  margin-top: 20px;
+  margin: 0px 100px;
+  position: relative;
+}
+.eight_center .center_one {
+  border-bottom: 1px solid #ccc;
+}
+.eight_center .center_one h3 {
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.eight_center p {
+  margin-top: 10px;
+}
+.eight_center p img {
+  padding-right: 10px;
+}
+.eight_center b {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.eight_bottom {
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
+.eight_bottom .two_one {
+  border: 1px solid #ccc;
+  height: auto;
+  position: relative;
+}
+.eight_bottom .two_one .ones {
+  border-bottom: 1px solid #ccc;
+}
+.eight_bottom .two_one .ones h4 {
+  padding-left: 10px ;
+  padding: 15px 15px;
+}
+.eight_bottom .two_one p {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.eight_bottom .two_one p img {
+  margin-right: 10px;
+}
+.eight_bottom .two_one b {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.eight_bottom .two_two {
+  border: 1px solid #ccc;
+  height: auto;
+  overflow: hidden;
+  position: relative;
+}
+.eight_bottom .two_two .ones h4 {
+  padding-left: 10px ;
+  padding: 15px 15px;
+}
+.eight_bottom .two_two .fours {
+  border: 1px solid #ccc;
+  height: 330px;
+}
+.eight_bottom .two_two .fours p {
+  margin-top: 10px;
+}
+.eight_bottom .two_two b {
+  position: absolute;
+  right: 15px;
+  bottom: 0;
+}
+.nine {
+  height: auto;
+  background: #f5f5f5;
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.nine h1 {
+  padding-top: 80px;
+}
+.nine img {
+  margin-top: 60px;
+  max-width: 100%;
+  height: auto;
+  padding-left: 20px;
+}
+.nine h3 {
+  margin-top: 60px;
+}
+.nine button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  margin-right: 20px;
+  width: auto;
+  margin-bottom: 50px;
+  color: white;
+  background: #58b300;
+  border: 1px solid #58b300;
+  font-size: 17px;
+}
+.ten {
+  text-align: center;
+}
+.ten .ten_two dl {
+  margin-top: 40px;
+}
+.ten .ten_two dl dt {
+  float: left;
+  margin-right: 15px;
+}
+.ten .ten_two dl dd p {
+  font-weight: bold;
+  float: left;
+  margin-left: 60px;
+}
+.ten .ten_three {
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+.seven_two {
+  margin-top: 60px;
+  text-align: center;
+  background: #323232;
+}
+.seven_two .twos_ones {
+  color: white;
+}
+.seven_two .twos_ones img {
+  margin-top: -70px;
+}
+.seven_two .twos_three input {
+  margin-bottom: 20px;
+  margin-top: 15px;
+  width: 560px;
+  height: 55px;
+  background: #ffffff, url(../img/48.jpg) no-repeat left center;
+  padding-left: 30px ;
+}
+.seven_two .four input {
+  margin-bottom: 20px;
+  width: 1150px;
+  height: 55px;
+  background: #ffffff, url(../img/48.jpg) no-repeat left center;
+  padding-left: 30px ;
+}
+.seven_two .four p {
+  color: white;
+  float: left;
+}
+.seven_two .four button {
+  margin-top: 60px;
+  padding: 10px 20px;
+  margin-right: 20px;
+  width: auto;
+  margin-bottom: 50px;
+  color: white;
+  background: #58b300;
+  border: 1px solid #58b300;
+  font-size: 17px;
+}
+.five {
+  text-align: center;
+}
+.five img {
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.fives {
+  background: #424242;
+  color: white;
+}
+.fives span {
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  display: block;
+}
+.fives b {
+  float: right;
+  background: #424242;
+  color: white;
+}
+.fives b img {
+  padding-left: 10px;
+}
+.footer {
+  background: #000000;
+  color: white;
+}
+.footer p {
+  margin-left: 30px;
+  padding-top: 15px;
+}
+.footer img {
+  margin-top: 10px;
+}
